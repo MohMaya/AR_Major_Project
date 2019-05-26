@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{C3564351-C7D9-C537-B1E2-D818AC29A869}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GPS.cs">
+    <Files>
+      <File FileName="Assets/GPS.cs" Line="51" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MidAir_randomised" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="GPS.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f013b177-fb07-43c7-91c9-e303596fc9ec" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
